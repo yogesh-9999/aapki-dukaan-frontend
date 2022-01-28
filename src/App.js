@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -6,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Aapki Dukaan</h1>
+      <h2>E-commerce</h2>
     </div>
   );
 }
