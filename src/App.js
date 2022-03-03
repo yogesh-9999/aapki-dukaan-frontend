@@ -1,11 +1,13 @@
 import "./App.css";
+import Banner from "./components/Banner/Banner";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   document.title = "Aapki Dukaan";
   return (
     <div className="App">
-      <h1>Aapki Dukaan</h1>
-      <h2>E-commerce</h2>
+      <Banner />
+      <Footer />
     </div>
   );
 }
