@@ -1,0 +1,21 @@
+.carousel-img{
+    height: 50vh;
+    width: 100%;
+    
+}
+.carousel-item{
+    border-radius: 2rem;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+background-color: rgba(255, 255, 255, 0.1);
+border-radius: 10%;
+}
+.carousel-control-prev-icon:hover,.carousel-control-next-icon:hover{
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.crousel-container{
+    top: 20px;
+    position: relative;
+    width: 95%;
+    margin: 2em auto;
+}
